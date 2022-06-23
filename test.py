@@ -1,1 +1,1 @@
-print("tet")print("tet")print("tet")
+print("tet")
